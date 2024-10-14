@@ -1,0 +1,33 @@
+C:\Users\ghait\OneDrive\Bureau\f&g hotel\f&g hotel\bin\Debug\net8.0-windows\f&g hotel.exe
+C:\Users\ghait\OneDrive\Bureau\f&g hotel\f&g hotel\bin\Debug\net8.0-windows\f&g hotel.deps.json
+C:\Users\ghait\OneDrive\Bureau\f&g hotel\f&g hotel\bin\Debug\net8.0-windows\f&g hotel.runtimeconfig.json
+C:\Users\ghait\OneDrive\Bureau\f&g hotel\f&g hotel\bin\Debug\net8.0-windows\f&g hotel.dll
+C:\Users\ghait\OneDrive\Bureau\f&g hotel\f&g hotel\bin\Debug\net8.0-windows\f&g hotel.pdb
+C:\Users\ghait\OneDrive\Bureau\f&g hotel\f&g hotel\obj\Debug\net8.0-windows\f_g_hotel.Properties.Resources.resources
+C:\Users\ghait\OneDrive\Bureau\f&g hotel\f&g hotel\obj\Debug\net8.0-windows\f&g hotel.csproj.GenerateResource.cache
+C:\Users\ghait\OneDrive\Bureau\f&g hotel\f&g hotel\obj\Debug\net8.0-windows\f&g hotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghait\OneDrive\Bureau\f&g hotel\f&g hotel\obj\Debug\net8.0-windows\f&g hotel.AssemblyInfoInputs.cache
+C:\Users\ghait\OneDrive\Bureau\f&g hotel\f&g hotel\obj\Debug\net8.0-windows\f&g hotel.AssemblyInfo.cs
+C:\Users\ghait\OneDrive\Bureau\f&g hotel\f&g hotel\obj\Debug\net8.0-windows\f&g hotel.csproj.CoreCompileInputs.cache
+C:\Users\ghait\OneDrive\Bureau\f&g hotel\f&g hotel\obj\Debug\net8.0-windows\f&g hotel.dll
+C:\Users\ghait\OneDrive\Bureau\f&g hotel\f&g hotel\obj\Debug\net8.0-windows\refint\f&g hotel.dll
+C:\Users\ghait\OneDrive\Bureau\f&g hotel\f&g hotel\obj\Debug\net8.0-windows\f&g hotel.pdb
+C:\Users\ghait\OneDrive\Bureau\f&g hotel\f&g hotel\obj\Debug\net8.0-windows\f&g hotel.genruntimeconfig.cache
+C:\Users\ghait\OneDrive\Bureau\f&g hotel\f&g hotel\obj\Debug\net8.0-windows\ref\f&g hotel.dll
+C:\Users\ghait\OneDrive\Bureau\f&g hotel\f&g hotel\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\ghait\OneDrive\Bureau\f&g hotel\f&g hotel\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ghait\OneDrive\Bureau\f&g hotel\f&g hotel\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ghait\OneDrive\Bureau\f&g hotel\f&g hotel\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ghait\OneDrive\Bureau\f&g hotel\f&g hotel\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ghait\OneDrive\Bureau\f&g hotel\f&g hotel\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ghait\OneDrive\Bureau\f&g hotel\f&g hotel\obj\Debug\net8.0-windows\f&g hotel.csproj.AssemblyReference.cache
+C:\Users\ghait\OneDrive\Bureau\f&g hotel\f&g hotel\obj\Debug\net8.0-windows\f_g_hotel.categories.resources
+C:\Users\ghait\OneDrive\Bureau\f&g hotel\f&g hotel\obj\Debug\net8.0-windows\f_g_hotel.connexion_admin.resources
+C:\Users\ghait\OneDrive\Bureau\f&g hotel\f&g hotel\obj\Debug\net8.0-windows\f_g_hotel.connexion.resources
+C:\Users\ghait\OneDrive\Bureau\f&g hotel\f&g hotel\obj\Debug\net8.0-windows\f_g_hotel.reservation.resources
+C:\Users\ghait\OneDrive\Bureau\f&g hotel\f&g hotel\obj\Debug\net8.0-windows\f&g hotel.csproj.Up2Date
+C:\Users\ghait\OneDrive\Bureau\f&g hotel\f&g hotel\obj\Debug\net8.0-windows\f_g_hotel.agent.resources
+C:\Users\ghait\OneDrive\Bureau\f&g hotel\f&g hotel\bin\Debug\net8.0-windows\f&g hotel.dll.config
+C:\Users\ghait\OneDrive\Bureau\f&g hotel\f&g hotel\obj\Debug\net8.0-windows\f_g_hotel.chambres.resources
+C:\Users\ghait\OneDrive\Bureau\f&g hotel\f&g hotel\obj\Debug\net8.0-windows\f_g_hotel.acceuil.resources
+C:\Users\ghait\OneDrive\Bureau\f&g hotel\f&g hotel\obj\Debug\net8.0-windows\f_g_hotel.Form1.resources
