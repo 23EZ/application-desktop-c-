@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\ghait\\OneDrive\\Bureau\\f\u0026g hotel\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AEF10BD3-EE34-4969-B517-42F7A16AD45F}|f\u0026g hotel\\f\u0026g hotel.csproj|c:\\users\\ghait\\onedrive\\bureau\\f\u0026g hotel\\f\u0026g hotel\\connexion.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEF10BD3-EE34-4969-B517-42F7A16AD45F}|f\u0026g hotel\\f\u0026g hotel.csproj|solutionrelative:f\u0026g hotel\\connexion.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF10BD3-EE34-4969-B517-42F7A16AD45F}|f\u0026g hotel\\f\u0026g hotel.csproj|c:\\users\\ghait\\onedrive\\bureau\\f\u0026g hotel\\f\u0026g hotel\\connexion.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{AEF10BD3-EE34-4969-B517-42F7A16AD45F}|f\u0026g hotel\\f\u0026g hotel.csproj|solutionrelative:f\u0026g hotel\\connexion.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AEF10BD3-EE34-4969-B517-42F7A16AD45F}|f\u0026g hotel\\f\u0026g hotel.csproj|c:\\users\\ghait\\onedrive\\bureau\\f\u0026g hotel\\f\u0026g hotel\\connexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AEF10BD3-EE34-4969-B517-42F7A16AD45F}|f\u0026g hotel\\f\u0026g hotel.csproj|solutionrelative:f\u0026g hotel\\connexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -105,11 +113,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "connexion.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ghait\\OneDrive\\Bureau\\f\u0026g hotel\\f\u0026g hotel\\connexion.Designer.cs",
+              "RelativeDocumentMoniker": "f\u0026g hotel\\connexion.Designer.cs",
+              "ToolTip": "C:\\Users\\ghait\\OneDrive\\Bureau\\f\u0026g hotel\\f\u0026g hotel\\connexion.Designer.cs",
+              "RelativeToolTip": "f\u0026g hotel\\connexion.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T10:17:08.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "connexion.resx",
+              "DocumentMoniker": "C:\\Users\\ghait\\OneDrive\\Bureau\\f\u0026g hotel\\f\u0026g hotel\\connexion.resx",
+              "RelativeDocumentMoniker": "f\u0026g hotel\\connexion.resx",
+              "ToolTip": "C:\\Users\\ghait\\OneDrive\\Bureau\\f\u0026g hotel\\f\u0026g hotel\\connexion.resx",
+              "RelativeToolTip": "f\u0026g hotel\\connexion.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-10-19T10:17:05.508Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -117,7 +150,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Fontions.cs",
               "DocumentMoniker": "C:\\Users\\ghait\\OneDrive\\Bureau\\f\u0026g hotel\\f\u0026g hotel\\Fontions.cs",
               "RelativeDocumentMoniker": "f\u0026g hotel\\Fontions.cs",
@@ -129,7 +162,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Agentmethode.cs",
               "DocumentMoniker": "C:\\Users\\ghait\\OneDrive\\Bureau\\f\u0026g hotel\\f\u0026g hotel\\Agentmethode.cs",
               "RelativeDocumentMoniker": "f\u0026g hotel\\Agentmethode.cs",
@@ -137,22 +170,24 @@
               "RelativeToolTip": "f\u0026g hotel\\Agentmethode.cs",
               "ViewState": "AQIAABoAAAAAAAAAAAAAADgAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T17:14:35.924Z"
+              "WhenOpened": "2024-05-19T17:14:35.924Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "connexion admin.cs [Conception]",
               "DocumentMoniker": "C:\\Users\\ghait\\OneDrive\\Bureau\\f\u0026g hotel\\f\u0026g hotel\\connexion admin.cs",
               "RelativeDocumentMoniker": "f\u0026g hotel\\connexion admin.cs",
               "ToolTip": "C:\\Users\\ghait\\OneDrive\\Bureau\\f\u0026g hotel\\f\u0026g hotel\\connexion admin.cs [Conception]",
               "RelativeToolTip": "f\u0026g hotel\\connexion admin.cs [Conception]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T15:50:08.022Z"
+              "WhenOpened": "2024-05-11T15:50:08.022Z",
+              "EditorCaption": " [Conception]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "connexion admin.cs",
               "DocumentMoniker": "C:\\Users\\ghait\\OneDrive\\Bureau\\f\u0026g hotel\\f\u0026g hotel\\connexion admin.cs",
               "RelativeDocumentMoniker": "f\u0026g hotel\\connexion admin.cs",
@@ -160,11 +195,12 @@
               "RelativeToolTip": "f\u0026g hotel\\connexion admin.cs",
               "ViewState": "AQIAABoAAAAAAAAAAAAqwDcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T15:51:28.059Z"
+              "WhenOpened": "2024-05-11T15:51:28.059Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "connexion.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ghait\\OneDrive\\Bureau\\f\u0026g hotel\\f\u0026g hotel\\connexion.cs",
               "RelativeDocumentMoniker": "f\u0026g hotel\\connexion.cs",
@@ -176,20 +212,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "connexion.cs",
               "DocumentMoniker": "C:\\Users\\ghait\\OneDrive\\Bureau\\f\u0026g hotel\\f\u0026g hotel\\connexion.cs",
               "RelativeDocumentMoniker": "f\u0026g hotel\\connexion.cs",
               "ToolTip": "C:\\Users\\ghait\\OneDrive\\Bureau\\f\u0026g hotel\\f\u0026g hotel\\connexion.cs",
               "RelativeToolTip": "f\u0026g hotel\\connexion.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAIwD0AAAAMAAAA",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAmwEIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-25T22:09:26.671Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "chambres.cs",
               "DocumentMoniker": "C:\\Users\\ghait\\OneDrive\\Bureau\\f\u0026g hotel\\f\u0026g hotel\\chambres.cs",
               "RelativeDocumentMoniker": "f\u0026g hotel\\chambres.cs",
@@ -201,7 +237,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "chambres.cs [Conception]",
               "DocumentMoniker": "C:\\Users\\ghait\\OneDrive\\Bureau\\f\u0026g hotel\\f\u0026g hotel\\chambres.cs",
               "RelativeDocumentMoniker": "f\u0026g hotel\\chambres.cs",
@@ -212,7 +248,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "categories.cs",
               "DocumentMoniker": "C:\\Users\\ghait\\OneDrive\\Bureau\\f\u0026g hotel\\f\u0026g hotel\\categories.cs",
               "RelativeDocumentMoniker": "f\u0026g hotel\\categories.cs",
@@ -220,22 +256,24 @@
               "RelativeToolTip": "f\u0026g hotel\\categories.cs",
               "ViewState": "AQIAAEcAAAAAAAAAAAAUwF0AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T17:15:23.964Z"
+              "WhenOpened": "2024-05-19T17:15:23.964Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "categories.cs [Design]",
+              "DocumentIndex": 8,
+              "Title": "categories.cs [Conception]",
               "DocumentMoniker": "C:\\Users\\ghait\\OneDrive\\Bureau\\f\u0026g hotel\\f\u0026g hotel\\categories.cs",
               "RelativeDocumentMoniker": "f\u0026g hotel\\categories.cs",
-              "ToolTip": "C:\\Users\\ghait\\OneDrive\\Bureau\\f\u0026g hotel\\f\u0026g hotel\\categories.cs [Design]",
-              "RelativeToolTip": "f\u0026g hotel\\categories.cs [Design]",
+              "ToolTip": "C:\\Users\\ghait\\OneDrive\\Bureau\\f\u0026g hotel\\f\u0026g hotel\\categories.cs [Conception]",
+              "RelativeToolTip": "f\u0026g hotel\\categories.cs [Conception]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T17:15:19.896Z"
+              "WhenOpened": "2024-05-19T17:15:19.896Z",
+              "EditorCaption": " [Conception]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "reservation.cs",
               "DocumentMoniker": "C:\\Users\\ghait\\OneDrive\\Bureau\\f\u0026g hotel\\f\u0026g hotel\\reservation.cs",
               "RelativeDocumentMoniker": "f\u0026g hotel\\reservation.cs",
@@ -247,7 +285,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "reservation.cs [Conception]",
               "DocumentMoniker": "C:\\Users\\ghait\\OneDrive\\Bureau\\f\u0026g hotel\\f\u0026g hotel\\reservation.cs",
               "RelativeDocumentMoniker": "f\u0026g hotel\\reservation.cs",
@@ -258,7 +296,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "acceuil.cs",
               "DocumentMoniker": "C:\\Users\\ghait\\OneDrive\\Bureau\\f\u0026g hotel\\f\u0026g hotel\\acceuil.cs",
               "RelativeDocumentMoniker": "f\u0026g hotel\\acceuil.cs",
@@ -270,7 +308,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "acceuil.cs [Conception]",
               "DocumentMoniker": "C:\\Users\\ghait\\OneDrive\\Bureau\\f\u0026g hotel\\f\u0026g hotel\\acceuil.cs",
               "RelativeDocumentMoniker": "f\u0026g hotel\\acceuil.cs",
@@ -281,7 +319,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\ghait\\OneDrive\\Bureau\\f\u0026g hotel\\f\u0026g hotel\\Form1.cs",
               "RelativeDocumentMoniker": "f\u0026g hotel\\Form1.cs",
@@ -293,7 +331,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "Form1.cs [Conception]",
               "DocumentMoniker": "C:\\Users\\ghait\\OneDrive\\Bureau\\f\u0026g hotel\\f\u0026g hotel\\Form1.cs",
               "RelativeDocumentMoniker": "f\u0026g hotel\\Form1.cs",
@@ -304,7 +342,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "agent.cs",
               "DocumentMoniker": "C:\\Users\\ghait\\OneDrive\\Bureau\\f\u0026g hotel\\f\u0026g hotel\\agent.cs",
               "RelativeDocumentMoniker": "f\u0026g hotel\\agent.cs",
@@ -316,7 +354,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "ReservMethode.cs",
               "DocumentMoniker": "C:\\Users\\ghait\\OneDrive\\Bureau\\f\u0026g hotel\\f\u0026g hotel\\ReservMethode.cs",
               "RelativeDocumentMoniker": "f\u0026g hotel\\ReservMethode.cs",
@@ -328,7 +366,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "agent.cs [Conception]",
               "DocumentMoniker": "C:\\Users\\ghait\\OneDrive\\Bureau\\f\u0026g hotel\\f\u0026g hotel\\agent.cs",
               "RelativeDocumentMoniker": "f\u0026g hotel\\agent.cs",
@@ -339,7 +377,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "agent.resx",
               "DocumentMoniker": "C:\\Users\\ghait\\OneDrive\\Bureau\\f\u0026g hotel\\f\u0026g hotel\\agent.resx",
               "RelativeDocumentMoniker": "f\u0026g hotel\\agent.resx",
@@ -350,7 +388,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "CatMethode.cs",
               "DocumentMoniker": "C:\\Users\\ghait\\OneDrive\\Bureau\\f\u0026g hotel\\f\u0026g hotel\\CatMethode.cs",
               "RelativeDocumentMoniker": "f\u0026g hotel\\CatMethode.cs",
@@ -362,7 +400,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "ChMethodes.cs",
               "DocumentMoniker": "C:\\Users\\ghait\\OneDrive\\Bureau\\f\u0026g hotel\\f\u0026g hotel\\ChMethodes.cs",
               "RelativeDocumentMoniker": "f\u0026g hotel\\ChMethodes.cs",
@@ -374,7 +412,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ghait\\Downloads\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\Program.cs",
@@ -386,7 +424,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ghait\\OneDrive\\Bureau\\f\u0026g hotel\\f\u0026g hotel\\Program.cs",
               "RelativeDocumentMoniker": "f\u0026g hotel\\Program.cs",
